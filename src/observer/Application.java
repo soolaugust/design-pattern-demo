@@ -1,3 +1,5 @@
+package observer;
+
 public class Application {
   private static final String EVENT_1 = "event1";
   private static final String EVENT_2 = "event2";
